@@ -1,0 +1,104 @@
+body{
+  color: #40514E;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+h1
+{
+  color:#c9485b;
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color:#c9485b;
+  font-size: 2.25rem;
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  color:#cc0066;
+  font-family: 'Montserrat', sans-serif;
+}
+p{line-height: 2;}
+hr{
+  border: dotted #fe346e 5px;
+  border-bottom: none;
+  width:7%;
+  margin: 100px auto;
+}
+a{
+  color:#cc0066;
+  font-family: 'Montserrat', sans-serif;
+  margin:20px 20px;
+  text-decoration: none;
+}
+a:hover
+{
+  color: #f0134d;
+}
+.contact-me
+{
+  width:40%;
+  margin: 40px auto 60px;
+}
+.copyright
+{
+  color:#EAF6F6;
+  font-size: 0.50rem;
+  padding: 20px 0;
+}
+.myButton {
+	background-color:#ea9085;
+	border-radius:6px;
+	border:2px solid #c9485b;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Merriweather', serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ea9085;
+}
+.myButton:hover {
+	background-color:#d45d79;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.top-container
+{
+  background-color: #ffb6b9;
+  position: relative;
+  padding-top: 100px;
+}
+.skill-row
+{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+
+}
+.web-dev{
+  width:30%;
+  float: left;
+  margin-right: 30px;
+}
+.happy{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.middle-container
+{
+  margin:100px 0;
+
+}
+.bottom-container
+{
+  background-color: #ffb6b9;
+  padding:50px 0 20px;
+}
